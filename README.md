@@ -1,2 +1,2 @@
 # Super-Mario-Bros
-![Alt text](/pics/scren.png?raw=true "Optional Title")
+![Alt text](https://github.com/Wallted/Super-Mario-Bros/blob/master/pics/screen.png)
