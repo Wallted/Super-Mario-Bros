@@ -1,2 +1,2 @@
 # Super-Mario-Bros
-[Alt text](/pics/scren.png?raw=true "Optional Title")
+![Alt text](/pics/scren.png?raw=true "Optional Title")
